@@ -27,18 +27,3 @@
   --text-font: "Outfit", sans-serif;
   --text-font-size: "16px";
 }
-
-body {
-      font-family: "Outfit", sans-serif;
-      width: 51%;
-      border: solid red;
-      
-
-  header {
-    h1 {
-      font-family: "Young Serif", serif;
-      font-weight: 400;
-      font-style: normal;
-    }
-  }
-}
