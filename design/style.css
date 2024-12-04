@@ -1,0 +1,44 @@
+/* .young-serif-regular {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* <uniquifier>: Use a unique and descriptive class name
+<weight>: Use a value from 100 to 900 */
+
+/* .outfit-<uniquifier> {
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+} */
+
+:root {
+  --primary-background: #f3e5d8;
+  --secondary-background: #ffffff;
+
+  --title-font: "Young Serif", serif;
+  --title-color: hsl(14, 45%, 36%);
+
+  --time-color: hsl(332, 51%, 32%);
+  --time-background-color: #fff7fc;
+  
+  --text-font: "Outfit", sans-serif;
+  --text-font-size: "16px";
+}
+
+body {
+      font-family: "Outfit", sans-serif;
+      width: 51%;
+      border: solid red;
+      
+
+  header {
+    h1 {
+      font-family: "Young Serif", serif;
+      font-weight: 400;
+      font-style: normal;
+    }
+  }
+}
